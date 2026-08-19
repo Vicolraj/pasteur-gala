@@ -20,7 +20,7 @@ export default function App() {
           Pasteur Foundation Gala Platform
         </h1>
         <p className="text-gray-500 mt-2">
-          Scaffold ready — waiting on the client's App.jsx.
+          Scaffold ready
         </p>
       </div>
     </div>
